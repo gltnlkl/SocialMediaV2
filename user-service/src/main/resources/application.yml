@@ -1,0 +1,11 @@
+server:
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      database: socialmedia
+      username: gulukaluser
+      password: 'root'
+      host: 192.168.3.10
+      port: 27000
